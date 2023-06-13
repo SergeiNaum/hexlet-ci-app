@@ -1,5 +1,5 @@
+[![Actions Status](https://github.com/SergeiNaum/hexlet-ci-app/workflows/Sergey-Naum-check.yml/badge.svg)(https://github.com/SergeiNaum/hexlet-ci-app/actions)
 
-[![Actions Status](https://github.com/SergeiNaum/hexlet-ci-app/workflows/Sergey-Naum-check/badge.svg)](https://github.com/SergeiNaum/hexlet-ci-app/actions)
 
 
 # Example app for CI Hexlet course

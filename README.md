@@ -1,4 +1,4 @@
-https://github.com/SergeiNaum/hexlet-ci-app/actions/workflows/Sergey-Naum-check.yml/badge.svg
+https://github.com/SergeiNaum/hexlet-ci-app/tree/main/actions/workflows/Sergey-Naum-check.yml/badge.svg
 
 
 # Example app for CI Hexlet course

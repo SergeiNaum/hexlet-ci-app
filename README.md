@@ -1,3 +1,6 @@
+https://github.com/SergeiNaum/hexlet-ci-app/>/actions/workflows/Sergey-Naum-check.yml/badge.svg
+
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application

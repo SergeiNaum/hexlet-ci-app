@@ -1,5 +1,4 @@
-https://img.shields.io/codacy/grade/hexlet-ci-app?style=social
-
+[![setup-and-test](https://github.com/SergeiNaum/hexlet-ci-app/actions/workflows/Sergey-Naum-check.yml/badge.svg)](https://github.com/SergeiNaum/hexlet-ci-app/actions/workflows/Sergey-Naum-check.yml)
 
 
 # Example app for CI Hexlet course
